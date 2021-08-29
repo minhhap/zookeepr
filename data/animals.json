@@ -108,6 +108,15 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Coco",
+      "species": "Cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
     }
   ]
 }
